@@ -3,6 +3,8 @@
 A robust, production-ready **REST API** for managing a Library — built with **Node.js**, **Express**, and **Firebase Firestore**.  
 Supports full user authentication, book management, and borrow/return transactions with role-based access control.
 
+🌍 **Live API URL:** [https://assignment-6-library-management-api-mbgn.onrender.com](https://assignment-6-library-management-api-mbgn.onrender.com)
+
 ---
 
 ## 🚀 Tech Stack
